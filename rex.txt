@@ -1,0 +1,9 @@
+fastapi 
+socketio[asyncio] 
+python-socketio[asyncio] 
+uvicorn 
+pydantic 
+sqlalchemy 
+databases 
+psycopg2
+python-dotenv
